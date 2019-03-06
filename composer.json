@@ -1,6 +1,5 @@
 {
     "name": "fhermann/doctrine-trait",
-    "version": "0.1.0",
     "description": "A set of reusable trait for Doctrine",
     "type": "library",
     "keywords": ["doctrine", "trait", "entity"],
